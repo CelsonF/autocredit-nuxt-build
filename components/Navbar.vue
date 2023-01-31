@@ -5,7 +5,7 @@
       class="container-fluid justify-content-between justify-content-lg-around">
       <a class="navbar-brand me-0" href="#">
         <img
-          src="~/assets/images/LOGO_PNG.png"
+          src="@/assets/images/LOGO_PNG.png"
           alt="Bootstrap"
           width="160"
           height="100" />
